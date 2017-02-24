@@ -22,6 +22,7 @@
     [self.window makeKeyAndVisible];
     //这是我的第一行注释
     //能看到吗？这是我的第一行注释
+    self.window.backgroundColor = [UIColor blackColor];
     return YES;
 }
 
